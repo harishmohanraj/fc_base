@@ -34,4 +34,37 @@
 .item.active{
     display:block;
 }
+.carousel-wrapper  .indicators{
+    magin:0 auto;
+}
+.carousel-wrapper .indicators .indicator-item {
+    display: inline-block;
+    position: relative;
+    cursor: pointer;
+    height: 16px;
+    width: 16px;
+    margin: 0 12px;
+    background-color: #e0e0e0;
+    transition: background-color .3s;
+    border-radius: 50%;
+}
+.carousel-wrapper .indicators .indicator-item.active {
+    background-color: #4CAF50;
+}
 /*Carousel styling ends*/
+/*Button Styloing*/
+.waves-effect{
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    will-change: opacity, transform;
+    transition: all .3s ease-out;
+}
