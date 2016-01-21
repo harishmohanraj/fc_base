@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     var length = document.querySelectorAll(".item-wrapper > .item").length;
     var current = 0,
         dotsElementWrapper = document.getElementsByClassName("indicators")[0];
-
+    // Creating the dots dynamically based on the length of the slide
     function createDots(len) {
         for (var i = 0, j = len; i < j; i++) {
             dotsElement = document.createElement('li');
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
             dotsElementWrapper.appendChild(dotsElement);
         }
     }
-
+    // Setting the current active dots
     function setCurrentDots(current, direction) {
         var dotsList = dotsElementWrapper.querySelectorAll('.indicator-item'),
             previousDot = current - direction;
@@ -26,12 +26,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
         dotsList[previousDot].classList.remove("active");
         dotsList[current].className += " active";
     }
-
-    function dotsClick(e) {
-        sliderElement[current].classList.remove("active");
-        e.target.className += " active";
-    }
-
+    // Slider navigation function
     function carousel(direction) {
         sliderElement[current].classList.remove("active");
         current = current + direction;
@@ -42,14 +37,16 @@ document.addEventListener("DOMContentLoaded", function(event) {
         }
         sliderElement[current].className += " active";
         setCurrentDots(current, direction);
-        console.log(current)
     }
 
     createDots(length);
+
     carousel(0);
+
     next.addEventListener("click", function() {
         carousel(1);
     });
+
     prev.addEventListener("click", function() {
         carousel(-1);
     });
