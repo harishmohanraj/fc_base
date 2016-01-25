@@ -1,10 +1,13 @@
 document.addEventListener("DOMContentLoaded", function(event) {
     var prev = document.getElementsByClassName("prev")[0];
     var next = document.getElementsByClassName("next")[0];
-    var sliderElement = document.querySelectorAll(".item-wrapper > .item");
-    var length = document.querySelectorAll(".item-wrapper > .item").length;
+    var sliderElement =document.querySelectorAll(".carousel-component .carousel-wrapper .carousel-item-container > .item");
+    var length = document.querySelectorAll(".carousel-component .carousel-wrapper .carousel-item-container > .item").length;
     var current = 0,
         dotsElementWrapper = document.getElementsByClassName("indicators")[0];
+    var contentSlider = document.getElementsByClassName("carousel-item-container")[0];
+    var sliderWidth = sliderElement[0].offsetWidth;
+    var newWidth;
     // Creating the dots dynamically based on the length of the slide
     function createDots(len) {
         for (var i = 0, j = len; i < j; i++) {
@@ -18,6 +21,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
     function setCurrentDots(current, direction) {
         var dotsList = dotsElementWrapper.querySelectorAll('.indicator-item'),
             previousDot = current - direction;
+
         if (direction > 0 && previousDot < 0) {
             previousDot = length - 1;
         } else if (direction < 0 && previousDot >= length) {
@@ -28,14 +32,22 @@ document.addEventListener("DOMContentLoaded", function(event) {
     }
     // Slider navigation function
     function carousel(direction) {
-        sliderElement[current].classList.remove("active");
+        //sliderElement[current].classList.remove("active");
+
         current = current + direction;
+        newWidth = (direction === 0 ) ? 0 : -(current * sliderWidth);
+        contentSlider.style.width = sliderWidth * length+"px";
+        console.log(contentSlider.offsetWidth)
+        //document.getElementsByClassName('item').style.width = '300px';
         if (direction > 0 && current >= length) {
             current = 0;
+            newWidth = 0;
         } else if (direction < 0 && current < 0) {
             current = length - 1;
+            newWidth = -(current * sliderWidth);
         }
-        sliderElement[current].className += " active";
+        //sliderElement[current].className += " active";
+        contentSlider.style.left = newWidth+"px";
         setCurrentDots(current, direction);
     }
 
