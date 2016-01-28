@@ -1,0 +1,10 @@
+{
+  "generators": {
+    "modules": {
+      "component" : "./react-component-generator"
+    }
+  },
+  "hooks": {
+      "grunt": false
+  }
+}

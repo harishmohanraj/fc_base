@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a16d40eb-12ff-4599-96ae-b9edd5dd77aa" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/carousel.js" afterPath="$PROJECT_DIR$/js/carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\.idea\fc_base.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\css\materialize.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\css\materialize.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\material-design-icons\LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\material-design-icons\Material-Design-Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\material-design-icons\Material-Design-Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\material-design-icons\Material-Design-Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\material-design-icons\Material-Design-Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\material-design-icons\Material-Design-Icons.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Bold.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Light.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Medium.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Medium.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Medium.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Medium.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\font\roboto\Roboto-Thin.woff2" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\js\materialize.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\dist\js\materialize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\images\Koala.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\hraj1\WebstormProjects\fc_base\js\carousel.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fc_base.iws" />
@@ -25,38 +60,7 @@
     <favorites_list name="fc_base" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-4.576923">
-              <caret line="54" column="65" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22818792">
-              <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.551724">
-              <caret line="40" column="61" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="61" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
@@ -67,6 +71,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/carousel.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app-server.js" />
+        <option value="$PROJECT_DIR$/app-client.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
@@ -79,9 +86,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-15" />
-    <option name="y" value="-2" />
-    <option name="width" value="1382" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
     <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -108,41 +115,27 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fc_base" />
+              <option name="myItemId" value="fClub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fc_base" />
+              <option name="myItemId" value="fClub" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="fc_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fc_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fc_base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -208,26 +201,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-15" y="-2" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32905295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -261,55 +254,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.576923">
-          <caret line="54" column="65" selection-start-line="54" selection-start-column="65" selection-end-line="54" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/carousel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.551724">
-          <caret line="40" column="61" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="61" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22818792">
-          <caret line="62" column="11" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
-          <folding />
+        <state vertical-scroll-proportion="0.6572935">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,7 @@
+<require module="path" var="path" />
+<require module="${path.resolve(__dirname, '../../api/controllers/RenderComponentsController')}" var="renderer" />
+<div id="test">
+  <if test="data.isServer === 'true'">
+    $!{renderer.serverRenderer('test')}
+  </if>
+</div>
